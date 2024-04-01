@@ -1,2 +1,3 @@
 # Day3-latihan
-Ini latihan gigolo
+Ini latihan Day 3
+
